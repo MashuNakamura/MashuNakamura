@@ -1,6 +1,6 @@
 Hello ! I'm a begginer Programmer, you can call me Okerachuchupurin !
 
-Currently I use Windows as my main OS and now learning Python and Datascients
+Currently I use Windows as my main OS and now learning Python, React and Datascient
 
 I'am from Darma Cendika Catholic University Majoring in Informatics
 
