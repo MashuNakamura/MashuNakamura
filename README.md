@@ -1,6 +1,8 @@
 Hello ! I'm a begginer Programmer, you can call me Okerachuchupurin !
 
-Currently I use Fedora as my main OS
+Currently I use Fedora as main OS and Windows as Gaming OS
+
+Still Learning Programming and Japanese Language
 
 I'am from Darma Cendika Catholic University Majoring in Informatics
 
