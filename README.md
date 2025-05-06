@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Federico Matthew Pratama</h1>
 <h3 align="center">Information Science student at Darma Cendika Catholic University.</h3>
 
-- 🔭 I’m currently working on [Webinar-RPL2]([https://github.com/MashuNakamura/Basic-React](https://github.com/MashuNakamura/webinar-rpl2)
+- 🔭 I’m currently working on [Webinar-RPL2](https://github.com/MashuNakamura/webinar-rpl2)
 
 - 🌱 I’m currently learning **Data Science and Web Development**
 
