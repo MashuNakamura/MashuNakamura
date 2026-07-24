@@ -7,7 +7,7 @@
   <br/>
   <!-- TYPING SVG (Noble Phantasm Dihapus) -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Cinzel&size=28&duration=3000&pause=1000&color=D4AF37&center=true&vCenter=true&width=500&lines=Hi+There!+%F0%9F%91%8B+I'm+Federico;Information+Science+Student;Servant+Class:+Programmer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Cinzel&size=28&duration=3000&pause=1000&color=D4AF37&center=true&vCenter=true&width=500&lines=Hi+There!+%F0%9F%91%8B+I'm+Federico;Information+Science+Student;" alt="Typing SVG" />
   </a>
 </div>
 
